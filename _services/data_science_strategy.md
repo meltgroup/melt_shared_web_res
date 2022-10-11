@@ -3,8 +3,7 @@ title: Data Science Strategy
 handle: data_science_strategy
 icon: signpost
 layout: service
-post_image: /assets/images/blog/03.jpg
-header_image:  /assets/images/headers/droplets.jpg
+header_image:  /melt_shared_web_res/images/headers/coloured_paper.jpg
 blurb: Deep learning techniques provide a powerful means to automatically classify images and text, but only when used appropriately. We look beyond the hype to assess the feasibility of projects before carrying them out.
 display_score: S05
 

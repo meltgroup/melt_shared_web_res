@@ -3,7 +3,7 @@ title: Data Science Mentoring
 handle: mentoring
 icon: people-fill
 layout: service
-header_image:  /assets/images/headers/cogs.jpg
+header_image:  /melt_shared_web_res/images/headers/splurge.jpg
 blurb: We help your data scientists to put their mathematical and technical skills to good use, solving problems in the real world.
 display_score: S04
 linked_services: [training, data_science_strategy]
