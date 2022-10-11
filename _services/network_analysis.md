@@ -15,7 +15,7 @@ display_score: S02
 
 Social network analysis is about modelling the relationships between people in a social network in order to understand how information flows through the network. We might find, for example, that two different groups of people are connected by just one person and therefore that person is extremely important when it comes to spreading a message. 
 
-The analysis is made even more powerful when we label the relationships between people. We can then see who is connected to who *and in what way*
+The analysis is made even more powerful when we label the relationships between people. We can then see who is connected to who *and in what way*.
 
 #### Why would you need it?
 
