@@ -28,9 +28,9 @@ Social network analysis works by representing individuals as points (nodes). The
 Once we have loaded your social data into a [graph database] we can then use algorithms to answer questions like 
 -   Who is connected to who and in what way?
 -   Which users are most influential in that they are 
-	-   The most active
-	-   The most connected to other users
-	-   Acting as bridges between disparate groups
+	-   The most active?
+	-   The most connected to other users?
+	-   Acting as bridges between disparate groups?
 -    Are there clusters of users (cliques) who are connected mainly to each other?
 
 This analysis works best when we use [data visualisation] to visually display the networks and highlight the patterns.
