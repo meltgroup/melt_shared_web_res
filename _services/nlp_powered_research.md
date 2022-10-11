@@ -1,6 +1,6 @@
 ---
 title: NLP-Powered Research
-handle: network_analysis
+handle: nlp_powered_research
 icon: search
 layout: service
 header_image: /melt_shared_web_res/images/headers/pages.jpg

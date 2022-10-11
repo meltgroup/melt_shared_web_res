@@ -5,7 +5,7 @@ icon: mortarboard-fill
 layout: service
 post_image: /assets/images/blog/03.jpg
 header_image:  /assets/images/headers/droplets.jpg
-blurb: Deep learning techniques provide a powerful means to automatically classify images and text, but only when used appropriately. We look beyond the hype to assess the feasibility of projects before carrying them out.
+blurb: We run hands-on workshops covering a wide range of subjects in data science from machine learning and NLP to advanced statistical modelling.
 display_score: S06
 ---
 
