@@ -4,7 +4,7 @@ handle: customer_segmentation
 icon: pie-chart
 layout: service
 header_image:  /melt_shared_web_res/images/headers/centre_sunflower.jpg
-blurb: Our approach to customer segmentation uses the latest NLP and machine learning techniques to build meaningful and genuinely useful segmentation directly on top of your customer database.
+blurb: Our approach to customer segmentation uses the latest NLP and machine learning techniques to build a meaningful and genuinely useful segmentation directly on top of your customer database.
 display_score: S07
 linked_services: [information_extraction, data_visualisation, recommender_systems]
 clients: [the_economist, totally_money, 38_degrees]

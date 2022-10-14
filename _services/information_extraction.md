@@ -3,8 +3,7 @@ title: Information Extraction
 handle: information_extraction
 icon: newspaper
 layout: service
-header_image:  /melt_shared_web_res/images/headers/blueprint.jpg
-post_image: "/melt_shared_web_res/images/backgrounds/books.jpg"
+header_image: /melt_shared_web_res/images/backgrounds/books.jpg
 blurb: We use natural language processing and machine learning to extract valuable information from free text, images and sound.
 display_score: S01
 linked_services: [customer_segmentation, nlp_powered_research, network_analysis, data_visualisation]

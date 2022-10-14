@@ -4,7 +4,7 @@ handle: nlp_powered_research
 icon: search
 layout: service
 header_image: /melt_shared_web_res/images/headers/pages.jpg
-blurb: Learn what your customers really think. We use natural language processing to help you analyse open ended survey questions. They get to speak their minds. You get to make sense of it.
+blurb: Understand consumers in their own words. We use natural language processing on well-structured open ended survey questions to bring you closer to the consumer’s perspective. They get to speak their minds. You get to make sense of it.
 linked_services: [information_extraction, data_visualisation, customer_segmentation]
 clients: [netflix, unilever, wikipedia, maido, here_i_am]
 display_score: S03
@@ -20,11 +20,11 @@ NLP means Natural Language processing - a set of algorithms and techniques that 
 
 #### How does it change how we do research?
 
-NLP is often applied to social media messages in the hope that it will yield valuable insights. The results are often poor because people don't always talk about what you want them to talk about. 
+NLP is often applied to social listening data, but the results are often poor because people don’t always talk about what you want them to talk about, and because you often don’t know who the audience is that you’re analysing.
 
-At the same time there is a misconception that NLP requires an enormous amount of data. This is not true. 
+At the same time there is a misconception that NLP requires an enormous amount of data. This is not true.
 
-NLP-Powered Research involves asking a small but representative sample of the population open but pointed questions about topics the researcher wants to hear discussed. NLP is then applied to the results to turn them into something which can be analysed. We then use, among other things, [Data Visualisation](/services/data_visualisation) to bring the results to life.
+NLP-Powered Research involves asking a small but representative sample of your audience(s) a set of clear, pointed open text questions around the topic you’re interested in. NLP is then applied to the results to turn these text responses into meaningful insights. We then use, among other things, [Data Visualisation](/services/data_visualisation) to bring the results to life.
 
 #### Where have we used it?
 
