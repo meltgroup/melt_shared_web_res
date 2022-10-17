@@ -12,7 +12,7 @@ tools: [insight_generation, strategic_consulting, storytelling, survey_design_an
 image: mark_potts.jpg
 ---
 
-15+ years shaping Fortune 500 clients' marketing and communications strategies, across industries and client situations.
+20+ years shaping Fortune 500 clients' marketing and communications strategies, across industries and client situations.
 
 Created, grown and lead successful consumer insights, data science, and business planning teams.
 

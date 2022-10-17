@@ -1,7 +1,7 @@
 ---
 layout: melt_member
 name: Simeon Duckworth
-business_name: Duck Tales
+business_name: Economist
 linked_in_profile_page: tbc
 twitter_handle: tbc
 github_user_name: tbc
