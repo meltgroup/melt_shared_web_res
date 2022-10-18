@@ -7,6 +7,7 @@ header_image:  /melt_shared_web_res/images/headers/sewing_machine.jpg
 blurb: We run hands-on workshops covering a wide range of subjects in data science from machine learning and NLP to advanced statistical modelling.
 linked_services: [mentoring, data_science_strategy, peer_review]
 clients: [google, itv, the_economist, sainsburys, black_swan, market_research_society, unidays, birkbeck_college, annalect, beauhurst, redshift]
+status: published
 display_score: S06
 ---
 

@@ -7,6 +7,7 @@ header_image: /melt_shared_web_res/images/headers/lightning.png
 blurb: We build statistical models that predict behaviours based on the output of mobile sensor devices or similar systems. We can work with many types of sensor data including the output from the accelerometer, gyroscope and GPS systems.
 linked_services: [forecasting, data_visualisations, first_principles_build]
 clients: [ingenie, elvie]
+status: published
 display_score: S32
 ---
 

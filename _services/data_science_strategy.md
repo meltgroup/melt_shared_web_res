@@ -7,6 +7,7 @@ header_image:  /melt_shared_web_res/images/headers/coloured_paper.jpg
 blurb: We have over 20 years of experience running successful data science projects. We can help you get started or take you to the next level.
 linked_services: [mentoring, training, peer_review]
 clients: [sainsburys, the_economist, totally_money, the_body_shop, mumsnet, net_a_porter, direct_line_group, dentsu_aegis_network, beauhurst, benefex]
+status: published
 display_score: S05
 
 ---

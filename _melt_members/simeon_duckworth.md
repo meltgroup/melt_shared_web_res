@@ -7,7 +7,7 @@ twitter_handle: tbc
 github_user_name: tbc
 clients: [mumsnet, hope_not_hate]
 worked_with: [itv, unilever, google, news_uk]
-services: [data_science_strategy, customer_segmentation, peer_review, forecasting]
+services: [data_science_strategy, market_sizing, customer_segmentation, peer_review, proposition_and_asset_development]
 tools: [machine_learning, statistical_modelling, bayesian_modelling, simulation]
 image: simeon_duckworth.jpg
 ---

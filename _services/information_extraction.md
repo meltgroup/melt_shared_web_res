@@ -5,9 +5,10 @@ icon: newspaper
 layout: service
 header_image: /melt_shared_web_res/images/backgrounds/books.jpg
 blurb: We use natural language processing and machine learning to extract valuable information from free text, images and sound.
-display_score: S01
 linked_services: [customer_segmentation, nlp_powered_research, network_analysis, data_visualisation]
 clients: [the_economist, hope_not_hate, wikipedia, msl_group, here_i_am, maido, beauhurst]
+status: published
+display_score: S01
 ---
 
 #### What is information extraction?

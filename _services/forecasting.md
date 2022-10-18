@@ -7,6 +7,7 @@ header_image: /melt_shared_web_res/images/headers/droplets.jpg
 blurb: We use sophisticated statistical models to forecast <em>what will happen</em> to your business in the future and detailed simulations to understand <em>what might happen</em> if changes are made.
 linked_services: [customer_segmentation, data_visualisation, sensor_modelling]
 clients: [wgsn, the_university_of_manchester, wikipedia, totally_money, elvie, essense, annalect, the_trussell_trust]
+status: published
 display_score: S08
 ---
 

@@ -5,9 +5,10 @@ icon: pen
 layout: service
 header_image:  /assets/images/headers/droplets.jpg
 blurb: If the solution that is being presented to you as cutting edge AI has in fact been around since the 60s we feel you have a right to know!
-display_score: S14
 linked_services: [data_science_strategy, mentoring, training]
 clients: [sainsburys, kantar]
+status: published
+display_score: S14
 ---
 
 #### What is a data science peer review?

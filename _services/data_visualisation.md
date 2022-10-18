@@ -5,9 +5,10 @@ icon: "easel"
 layout: service
 header_image: "/melt_shared_web_res/images/headers/ice_crystals.jpg"
 blurb: "A successful visualisation has a life of its own changing the way people see and talk about your business. We balance aesthetics, information content and interactivity to build visualisations that will catch people’s attention."
-display_score: S30
 linked_services: [customer_segmentation, network_analysis, information_extraction]
 clients: [the_economist, netflix, itv, hope_not_hate, the_trussell_trust, the_citizens_advice_bureau, 38_degrees, barb, redshift, msl_group]
+status: published
+display_score: S30
 ---
 
 #### What is data visualisation?

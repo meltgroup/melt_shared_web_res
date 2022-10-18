@@ -6,6 +6,7 @@ layout: service
 post_image: /assets/images/blog/03.jpg
 header_image:  /assets/images/headers/droplets.jpg
 blurb: Deep learning techniques provide a powerful means to automatically classify images and text, but only when used appropriately. We look beyond the hype to assess the feasibility of projects before carrying them out.
+status: unpublished
 display_score: S10
 ---
 

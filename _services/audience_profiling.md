@@ -6,6 +6,7 @@ layout: service
 post_image: /assets/images/blog/03.jpg
 header_image:  /assets/images/headers/droplets.jpg
 blurb: "We use a mix of traditional and NLP approaches to build human-led profiles of clients' audiences: their category perceptions, needs, drivers, barriers, decision-making approaches, and usage behaviours."
+status: unpublished
 display_score: S09
 ---
 

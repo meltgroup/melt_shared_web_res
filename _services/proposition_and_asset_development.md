@@ -5,6 +5,7 @@ icon: pencil
 layout: service
 header_image:  /melt_shared_web_res/images/headers/droplets.jpg
 blurb: Developing high impact, highly differentiated brand propositions and assets is critical for driving growth. Using a combination of data techniques we help clients test and develop their brand propositions and brand assets to maximise impact and create confidence in their strategic investment decisions.
+status: unpublished
 display_score: S09
 ---
 

@@ -8,6 +8,7 @@ header_image: /melt_shared_web_res/images/headers/bees.jpg
 blurb: "Find out the best way to reach your customers by understanding the flow of information through a social network."
 linked_services: [information_extraction, customer_segmentation, recommender_systems, data_visualisation]
 clients: [hope_not_hate]
+status: published
 display_score: S02
 ---
 
