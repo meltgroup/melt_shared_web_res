@@ -2,9 +2,9 @@
 layout: melt_member
 name: Duncan Stoddard
 business_name: DSAnalytics
-linked_in_profile_page: tbc
-twitter_handle: tbc
-github_user_name: tbc
+linked_in_profile_page: https://www.linkedin.com/in/duncan-stoddard-5b882327/
+twitter_handle: duncstod86
+github_user_name: duncstod
 clients: [elvie, essense, the_economist, itv, the_institute_of_clever_stuff, the_telegraph, the_university_of_manchester, beano, bbc, go_cardless, new_statesman, jo_malone, beauhurst]
 worked_with: [ikea]
 services: [forecasting, data_visualisation, customer_segmentation, training]

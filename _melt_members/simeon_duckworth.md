@@ -2,9 +2,9 @@
 layout: melt_member
 name: Simeon Duckworth
 business_name: Economist
-linked_in_profile_page: tbc
-twitter_handle: tbc
-github_user_name: tbc
+linked_in_profile_page: https://www.linkedin.com/in/simeon-duckworth-42934/
+twitter_handle: simeonduckworth
+github_user_name: simeond
 clients: [mumsnet, hope_not_hate]
 worked_with: [itv, unilever, google, news_uk]
 services: [data_science_strategy, market_sizing, customer_segmentation, peer_review, proposition_and_asset_development]

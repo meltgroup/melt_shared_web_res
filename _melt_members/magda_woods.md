@@ -2,12 +2,12 @@
 layout: melt_member
 name: Magda Woods
 business_name: Magda and the Robots
-linked_in_profile_page: tbc
-twitter_handle: tbc
-github_user_name: tbc
+linked_in_profile_page: https://www.linkedin.com/in/magdapiatkowska
+twitter_handle: MagdaPiatkowska
+github_user_name: magdaandtherobots
 clients: [the_economist, new_statesman, barb, mumsnet]
 worked_with: [channel_4, the_telegraph, bbc]
-services: [data_science_strategy, customer_segmentation]
+services: [data_science_strategy, mentoring, proposition_and_asset_development, customer_segmentation]
 tools: [machine_learning, statistical_modelling]
 image: magda_woods.png
 ---
