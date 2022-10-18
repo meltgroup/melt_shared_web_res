@@ -8,7 +8,7 @@ github_user_name: magdaandtherobots
 clients: [the_economist, new_statesman, barb, mumsnet]
 worked_with: [channel_4, the_telegraph, bbc]
 services: [data_science_strategy, mentoring, proposition_and_asset_development, customer_segmentation]
-tools: [machine_learning, statistical_modelling]
+tools: [natural_language_processing, machine_learning, topic_modelling, statistical_modelling]
 image: magda_woods.png
 ---
 
