@@ -6,7 +6,7 @@ linked_in_profile_page: https://www.linkedin.com/in/simeon-duckworth-42934/
 twitter_handle: simeonduckworth
 github_user_name: simeond
 clients: [mumsnet, hope_not_hate]
-worked_with: [itv, unilever, google, news_uk]
+worked_with: [amazon, spotify, talk_talk, british_telecom, itv, unilever, google, news_uk, nestle, kimberly_clark, glaxo_smithkline, warburtons]
 services: [data_science_strategy, market_sizing, customer_segmentation, peer_review, proposition_and_asset_development]
 tools: [machine_learning, statistical_modelling, bayesian_modelling, simulation]
 image: simeon_duckworth.jpg
