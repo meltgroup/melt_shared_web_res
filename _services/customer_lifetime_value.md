@@ -16,14 +16,16 @@ Subscriber Lifetime Value is the amount of revenue a subscriber will generate ov
 
 #### Why would you need it?
 
-Subscriber Lifetime Value Modelling enables you to quickly get an understanding of how much new acquisitions are worth. We can use these values to calulate return on advertising spend and as inputs in other models (e.g. econometric models). We can also combine with customer segmentation models to understand how value compares across different customer clusters. Fundamentally, we can use it to identify and retain the highest value customers.
+Subscriber Lifetime Value Modelling enables you to quickly get an understanding of how much new acquisitions are worth. We can use these values to calculate return on advertising spend and as inputs in other models (e.g. econometric models). We can also combine with customer segmentation models to understand how value compares across different customer clusters. Fundamentally, we can use it to identify and retain the highest value customers.
 
 These models answer questions like 'how much should we charge for annual subscriptions vs. monthly subscriptions?' or 'how has switching to a customer service chatbox affected retention?'.
 
 
 #### What data is required?
 
-We can build powerful statistical models with quite simple data. At the most basic level all we need are subscription durations and the latest status for each subscriber. Ideally though we would also have other features describing the subscriber and their subscription. We would also need information about costs (acquisition, servicing and retention) and the subscription price. 
+We can build powerful statistical models with quite simple data. At the most basic level all we need are subscription durations and the latest status for each subscriber. Ideally we would also have other features describing the subscriber and their subscription. 
+
+We would also need information about costs (acquisition, servicing and retention) and the subscription price. 
 
 
 #### How does it work?
