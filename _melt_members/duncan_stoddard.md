@@ -7,7 +7,7 @@ twitter_handle: duncstod86
 github_user_name: duncstod
 clients: [elvie, essense, the_economist, itv, the_institute_of_clever_stuff, the_telegraph, the_university_of_manchester, beano, bbc, go_cardless, new_statesman, jo_malone, beauhurst]
 worked_with: [ikea]
-services: [forecasting, data_visualisation, customer_segmentation, training]
+services: [subscriber_lifetime_value, forecasting, data_visualisation, customer_segmentation, training]
 tools: [machine_learning, natural_language_processing, simulation, statistical_modelling, topic_modelling, bayesian_modelling, stan, python]
 image: duncan_stoddard.jpg
 ---
