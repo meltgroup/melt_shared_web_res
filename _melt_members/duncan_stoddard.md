@@ -7,8 +7,8 @@ twitter_handle: duncstod86
 github_user_name: duncstod
 clients: [elvie, essense, the_economist, itv, the_institute_of_clever_stuff, the_telegraph, the_university_of_manchester, beano, bbc, go_cardless, new_statesman, jo_malone, beauhurst]
 worked_with: [ikea]
-services: [subscriber_lifetime_value, forecasting, data_visualisation, customer_segmentation, training]
-tools: [machine_learning, natural_language_processing, simulation, statistical_modelling, topic_modelling, bayesian_modelling, stan, python]
+services: [subscriber_lifetime_value, forecasting, data_visualisation, customer_segmentation, retail_location_modelling, training]
+tools: [machine_learning, natural_language_processing, simulation, statistical_modelling, topic_modelling, bayesian_modelling, stan, pymc, python, R]
 image: duncan_stoddard.jpg
 ---
 Duncan is an experienced data scientist with a background in economics. He specialises in using data to solve business problems. He has worked across various industries including health, finance, retail, publishing and marketing.
