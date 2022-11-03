@@ -1,12 +1,11 @@
 ---
 layout: post
 title:  Graphing the history of philosophy
-date:   2020-05-02 09:16:35 +0600
+date:   2012-06-01 09:16:35 +0600
 categories: [jekyll]
 post_image: "/assets/images/posts/classical.png"
 author: Simon
-redirect_from:
-  - /2012/06
+redirect_from: /2012/06/graphing-the-history-of-philosophy
 ---
 
 This one came about because I was searching for a data set on horror films (don't ask) and ended up with one describing the links between philosophers.
