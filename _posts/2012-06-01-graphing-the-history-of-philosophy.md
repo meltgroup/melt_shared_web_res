@@ -9,8 +9,6 @@ redirect_from:
   - /2012/06
 ---
 
-https://www.coppelia.io/2012/06/graphing-the-history-of-philosophy/
-
 This one came about because I was searching for a data set on horror films (don't ask) and ended up with one describing the links between philosophers.
 
 To cut a long story very short I've extracted the information in the <em>influenced by</em> section for every philosopher on Wikipedia and used it to construct a network which I've then visualised using <a href="http://gephi.org/" target="_blank">gephi</a>
@@ -19,7 +17,7 @@ It's an easy process to repeat. It could be done for any area within Wikipedia w
 
 First I'll show why I think it's worked as a visualisation. Here's the whole graph.
 
-<img class="aligncenter size-full wp-image-662" title="philPrettyV4" src="/assets/images/posts/classical.png" alt="" width="750" height="750" />
+<a href="/assets/images/posts/philPrettyV4.png"><img title="philPrettyV4" src="/assets/images/posts/philPrettyV4.png" alt="" width="100%" /></a>
 
 Each philosopher is a node in the network and the lines between them (or edges in the terminology of graph theory) represents lines of influence. The node and text are sized according to the number of connections (both in and out). The algorithm that visualises the graph also tends to put the better connected nodes in the centre of the diagram so we see the most influential philosophers, in large text, clustered in the centre. It all seems about right with the major figures in the western philosophical tradition taking the centre stage. (I need to also add the direction of influence with a arrow head - something I've not got round to yet.) A shortcoming however is that this evaluation only takes into account direct lines of influence. Indirect influence via another person in the network does not enter into it. This probably explains why Descartes is smaller than you'd think. It would also be better if the nodes were sized only by the number of outward connections although I think overall the differences would be slight. I'll get round to that.
 
@@ -27,13 +25,12 @@ It gets more interesting when we use Gephi to identify communities (or modules) 
 
 It has been fairly successful. Below we can see the so called continental tradition picked out in green, stemming from Hegel and Nietzsche, leading into Heidegger and Sartre and ending in the isms of the twentieth century. It's interesting that there is separate subgroup, in purple, influenced mainly by Schopenhauer (out of shot) and Freud.
 
-<img class="size-full wp-image-620" title="Continental" src="/assets/images/posts/continental1.png" alt="" width="750" height="491"/>
+<img class="size-full wp-image-620" title="Continental" src="/assets/images/posts/continental1.png" alt="" width="100%"/>
 
 And this close up is of the analytical tradition emerging out of Frege, Russell and Wittgenstein. At the top and to the left you can see the British empirical school and the American pragmatists.
 
-<img class="size-full wp-image-618" title="analytical" src="http://www.coppelia.io/wp-content/uploads/2015/08/analytical.png" alt="" width="750" height="459" />
+<img title="analytical" src="/assets/images/posts/analytical.png" alt="" width="100%"/>
 
-British Empiricism, American Pragmatism and the Analytical Tradition
 
 It would be interesting to play with the number of groups picked out by the algorithm. It would hopefully identify sub groups within these overarching traditions.
 
