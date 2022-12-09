@@ -14,7 +14,7 @@ display_score: S05
 
 #### What is our data science strategy service?
 
-We have over 20 years of experience in data science, machine leaning and statistical analysis. Whether you already have a data science or capacity or are just starting out, we can help you with all aspects of running a data science team:
+We have over 20 years of experience in data science, machine learning and statistical analysis. Whether you already have a data science or capacity or are just starting out, we can help you with all aspects of running a data science team:
 
 1. Recruiting the right people with the right skills.
 2. Identifying projects that are likely to succeed and testing their feasibility.
