@@ -5,10 +5,10 @@ business_name: Sequence Analytics
 linked_in_profile_page: https://www.linkedin.com/in/neilcharles/
 twitter_handle: neilcharles_uk
 github_user_name: tbc
-clients: [itv]
-worked_with: [itv]
-services: [data_visualisation]
-tools: [statistical_modelling]
+clients: []
+worked_with: [itv, sainsburys, sky, nectar, hsbc, first_direct, dfs]
+services: [data_visualisation, forecasting, audience_profiling]
+tools: [statistical_modelling, machine_learning, bayesian_modelling]
 image: neil_charles.jpg
 ---
 Neil Charles launched Sequence Analytics in 2022, after over twenty years in marketing measurement and analysis. Previously, Neil headed a data science and technology team at MediaCom and he has experience across a range of businesses, having worked at the Nectar loyalty card, EMI Music, Mindshare and for the statistics consultancy Gain Theory.
