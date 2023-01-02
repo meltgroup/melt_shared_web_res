@@ -3,24 +3,30 @@ title: Sensor Modelling
 handle: sensor_modelling
 icon: phone
 layout: service
-post_image: /assets/images/blog/05.jpg
-header_image: /assets/images/headers/pins.jpg
-blurb: We build statistical models that predict behaviours based on the output of mobile sensor devices. We can work with many types of sensor data including the output from the accelerometer, gyroscope and GPS systems.
+header_image: /melt_shared_web_res/images/headers/lightning.jpg
+blurb: We build statistical models that predict behaviours based on the output of mobile sensor devices or similar systems. We can work with many types of sensor data including the output from the accelerometer, gyroscope and GPS systems.
+linked_services: [forecasting, data_visualisations, first_principles_build]
+clients: [ingenie, elvie]
+status: published
 display_score: S32
 ---
 
-#### What is forecasting?
+#### What is sensor modelling?
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae pariatur deleniti, deserunt soluta perspiciatis nisi. Provident cumque optio, tenetur neque culpa rerum reiciendis distinctio, fugiat debitis, beatae vel nam doloribus quis cupiditate. Quo porro iure, temporibus quaerat qui illo commodi rem dolore minima, iusto doloremque blanditiis placeat debitis eligendi fuga.
+Smart phones, tablets, cars, fridges, wearables... so many everyday devices now contain sensors and store or upload the resulting stream of data. A smartphone alone can contain:
 
-#### Why would you need it?
+- a gyroscope
+- an accelerometer
+- a proximity sensor
+- an ambient light sensor
+- a moisture sensor
+- a GPS tracker
+- a compass
+- a fingerprint sensor
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae pariatur deleniti, deserunt soluta perspiciatis nisi. Provident cumque optio, tenetur neque culpa rerum reiciendis distinctio, fugiat debitis, beatae vel nam doloribus quis cupiditate. Quo porro iure, temporibus quaerat qui illo commodi rem dolore minima, iusto doloremque blanditiis placeat debitis eligendi fuga.
+These signals can combined to detect specific events or complex movements. For example is a person anxious at a certain location, or are they driving dangerously, or do they follow a specific routine. We build statistical models and machine learning algorithms which will extract these patterns from the combined data. However we will only do this when [the use case is ethical]() and the the device user has agreed to share their data.
 
-#### How does it work?
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae pariatur deleniti, deserunt soluta perspiciatis nisi. Provident cumque optio, tenetur neque culpa rerum reiciendis distinctio, fugiat debitis, beatae vel nam doloribus quis cupiditate. Quo porro iure, temporibus quaerat qui illo commodi rem dolore minima, iusto doloremque blanditiis placeat debitis eligendi fuga.
 
 #### Where have we used it?
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae pariatur deleniti, deserunt soluta perspiciatis nisi. Provident cumque optio, tenetur neque culpa rerum reiciendis distinctio, fugiat debitis, beatae vel nam doloribus quis cupiditate. Quo porro iure, temporibus quaerat qui illo commodi rem dolore minima, iusto doloremque blanditiis placeat debitis eligendi fuga.
+We have used sensor modelling for clients in the telematics industry and have run feasibility simulations for sensor effectiveness for clients in the biotech industry.

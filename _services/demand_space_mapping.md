@@ -3,24 +3,24 @@ title: Demand Space Mapping
 handle: demand_space_mapping
 icon: map
 layout: service
-post_image: /assets/images/blog/03.jpg
-header_image:  /assets/images/headers/droplets.jpg
-blurb: Deep learning techniques provide a powerful means to automatically classify images and text, but only when used appropriately. We look beyond the hype to assess the feasibility of projects before carrying them out.
+header_image:  /melt_shared_web_res/images/headers/droplets.jpg
+blurb: We help clients find growth within their categories by mapping existing and emerging consumer demand.
+status: unpublished
 display_score: S09
 ---
 
-#### What is demand space mapping?
+#### What is Demand Space Mapping?
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae pariatur deleniti, deserunt soluta perspiciatis nisi. Provident cumque optio, tenetur neque culpa rerum reiciendis distinctio, fugiat debitis, beatae vel nam doloribus quis cupiditate. Quo porro iure, temporibus quaerat qui illo commodi rem dolore minima, iusto doloremque blanditiis placeat debitis eligendi fuga.
+For many categories, what consumers want and need in a product or service is defined as much by the context as by who the consumer is. For example, in the alcoholic beverage category, what someone wants to drink on a Friday night out with their friends may be different to what they'd want over dinner with their partner. In Demand Space Mapping we identify and size all these category consumption occasions, consumers' needs within them, and where the opportunities for product development and communications lie.
 
 #### Why would you need it?
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae pariatur deleniti, deserunt soluta perspiciatis nisi. Provident cumque optio, tenetur neque culpa rerum reiciendis distinctio, fugiat debitis, beatae vel nam doloribus quis cupiditate. Quo porro iure, temporibus quaerat qui illo commodi rem dolore minima, iusto doloremque blanditiis placeat debitis eligendi fuga.
+Demand Space Mapping gives a richer, more robust, and more realistic perspective on brand growth opportunities, providing you with the strategic direction and rationale you need to invest in product development and communications messaging.  
 
 #### How does it work?
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae pariatur deleniti, deserunt soluta perspiciatis nisi. Provident cumque optio, tenetur neque culpa rerum reiciendis distinctio, fugiat debitis, beatae vel nam doloribus quis cupiditate. Quo porro iure, temporibus quaerat qui illo commodi rem dolore minima, iusto doloremque blanditiis placeat debitis eligendi fuga.
+We use a survey-based approach to capture the detail around category users' consumption occasions, leveraging a combination of clustering and predictive modeling techniques to map the needs and contexts of these occasions into category Demand Spaces. We then size and profile each Demand Space, identifying where white space opportunities exist, and which spaces have the best fit for your brand. Finally we work with you and your stakeholders to embed the Demand Spaces through your product development and communications teams and partners.
 
 #### Where have we used it?
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae pariatur deleniti, deserunt soluta perspiciatis nisi. Provident cumque optio, tenetur neque culpa rerum reiciendis distinctio, fugiat debitis, beatae vel nam doloribus quis cupiditate. Quo porro iure, temporibus quaerat qui illo commodi rem dolore minima, iusto doloremque blanditiis placeat debitis eligendi fuga.
+We've used Demand Space mapping across many categories, including soft drinks, home improvement, entertainment, financial services, and alcoholic beverages.

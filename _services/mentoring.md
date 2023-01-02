@@ -3,11 +3,12 @@ title: Data Science Mentoring
 handle: mentoring
 icon: people-fill
 layout: service
-header_image:  /assets/images/headers/cogs.jpg
+header_image:  /melt_shared_web_res/images/headers/splurge.jpg
 blurb: We help your data scientists to put their mathematical and technical skills to good use, solving problems in the real world.
-display_score: S04
-linked_services: [training, data_science_strategy]
+linked_services: [training, data_science_strategy, peer_review]
 clients: [google, the_economist, sainsburys, itv, totally_money, unidays, direct_line_group, annalect, bamm, beauhurst, msl_group, redshift]
+status: published
+display_score: S04
 ---
 
 #### What is data science mentoring?
@@ -38,14 +39,11 @@ The **personalised development plan** includes:
 
 By **supervised project work** we mean: based on the short to medium term technical goals in the development plan and either current work projects or external hobby projects, identifying a discrete piece of work that we can then help the analyst work through to completion. An example might be as follows:
 
-Since you would like to learn d3 and since your company would benefit from being able to create attractive visualisations of networks, let’s work on a project where you
+Since you would like to learn d3 and since your company would benefit from being able to create attractive visualisations of networks, let’s work on a project where you:
 
--   Complete the introductory course to d3 on udacity_
-
+-   Complete the introductory course to d3 on udacity
 -   Build a simple network graph example using basic data
-
 -   Create a prototype using company data
-
 -   Learn how to make it look visually appealing using css and design principles
 
 The development plan and the supervised project work are managed by setting actions at the end of each mentoring session and reviewing them at the beginning of the following session.
