@@ -1,13 +1,13 @@
 ---
-title: Subscriber Lifetime Value Modelling
-handle: subscriber_lifetime_value
+title: Customer Lifetime Value Modelling
+handle: customer_lifetime_value
 icon: thermometer
 layout: service
 header_image:  /melt_shared_web_res/images/headers/droplets.jpg
-blurb: We help clients measure and predict subscriber lifetime value.
+blurb: We help clients measure and predict customer lifetime value.
 status: published
 linked_services: [customer_segmentation, forecasting, market_sizing]
-clients: [the_economist]
+clients: [the_economist, scribd]
 display_score: S09
 ---
 
