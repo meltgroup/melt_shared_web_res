@@ -1,7 +1,7 @@
 ---
 title: Customer Lifetime Value Modelling
 handle: customer_lifetime_value
-icon: thermometer
+icon: bar-chart-line
 layout: service
 header_image:  /melt_shared_web_res/images/headers/droplets.jpg
 blurb: We help clients measure and predict customer lifetime value.

@@ -1,7 +1,7 @@
 ---
 title: Bayesian Modelling
 handle: bayesian_modelling
-icon: diagram-3
+icon: dice-3
 layout: service
 header_image: /melt_shared_web_res/images/headers/pins.jpg
 blurb: Unleash the predictive power of Bayesian modelling to derive deep insights from data, enabling nuanced decision-making under uncertainty with dynamic, data-driven intelligence.

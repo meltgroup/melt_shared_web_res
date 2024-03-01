@@ -1,7 +1,7 @@
 ---
 title: Marketing Mix Modelling
 handle: marketing_mix_modelling
-icon: diagram-3
+icon: graph-up
 layout: service
 header_image: /melt_shared_web_res/images/headers/cogs_2.jpg
 blurb: We leverage Bayesian modelling and automated data pipelines to quantify the impact of digital and traditional marketing efforts across various channels on sales and market share, optimising marketing investments for robust future strategies.
