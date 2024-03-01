@@ -7,7 +7,7 @@ twitter_handle: DSAnalyticsMLA
 github_user_name: duncstod
 clients: [itv, scribd, elvie, essense, the_economist, itv, the_telegraph, the_university_of_manchester, beano, bbc, go_cardless, new_statesman, jo_malone, beauhurst, uclh, public_health_wales]
 worked_with: [ikea, bp, sage]
-services: [customer_lifetime_value, forecasting, data_visualisation, customer_segmentation, retail_location_modelling, training, bayesian_modelling]
+services: [customer_lifetime_value, forecasting, data_visualisation, customer_segmentation, retail_location_modelling, training, bayesian_modelling, marketing_mix_modelling]
 tools: [machine_learning, natural_language_processing, simulation, statistical_modelling, topic_modelling, bayesian_modelling, stan, pymc, python, R]
 image: duncan_stoddard.jpg
 ---

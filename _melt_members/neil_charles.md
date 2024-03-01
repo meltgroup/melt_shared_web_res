@@ -7,7 +7,7 @@ twitter_handle: neilcharles_uk
 github_user_name: tbc
 clients: []
 worked_with: [itv, sainsburys, sky, nectar, hsbc, first_direct, dfs]
-services: [data_visualisation, forecasting, audience_profiling]
+services: [marketing_mix_modelling, data_visualisation, forecasting, audience_profiling]
 tools: [statistical_modelling, machine_learning, bayesian_modelling]
 image: neil_charles.jpg
 ---
