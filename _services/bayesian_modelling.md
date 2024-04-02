@@ -7,7 +7,7 @@ header_image: /melt_shared_web_res/images/headers/pins.jpg
 blurb: Unleash the predictive power of Bayesian modelling to derive deep insights from data, enabling nuanced decision-making under uncertainty with dynamic, data-driven intelligence.
 status: published
 linked_services: [data_visualisation, predictive_modelling, machine_learning]
-clients: [the_trussell_trust, the_economist, scribd, elvie, essense, google, ikea, sage, wikipedia, springer_link]
+clients: [the_trussell_trust, the_economist, lyst, scribd, elvie, essense, google, ikea, sage, wikipedia, springer_link]
 display_score: B04
 ---
 

@@ -7,7 +7,7 @@ header_image:  /melt_shared_web_res/images/headers/droplets.jpg
 blurb: We help clients measure and predict customer lifetime value.
 status: published
 linked_services: [customer_segmentation, forecasting, market_sizing]
-clients: [the_economist, scribd]
+clients: [the_economist, tk_maxx, scribd]
 display_score: S09
 ---
 
