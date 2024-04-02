@@ -13,8 +13,8 @@ image: simon_raper.jpg
 post_image: simon_raper.jpg
 ---
 
-Simon is an RSS accredited statistician with over 15 years’ experience working in data science and analytics and many more in coding and software development. His specialities include machine learning, time series forecasting, advanced statistical modelling, market simulation and data visualisation.
+Simon is an RSS accredited statistician with over 20 years’ experience working in data science and artificial intelligence and many more in coding and software development. His specialities include large language models, machine learning, natural language processing, time series forecasting, advanced statistical modelling, market simulation, choice modelling and data visualisation.
 
-In 2014 he founded Coppelia Machine Learning and Analytics.
+In 2014 he founded Coppelia Machine Learning and Analytics, whose clients include Google, The Economist, ITV, Wikipedia, Sainsbury's and Net-a-Porter.
 
 He is a regular writer on statistics for <a href = "https://rss.onlinelibrary.wiley.com/action/doSearch?ContribAuthorRaw=Raper%2C+Simon">Significance magazine.</a>
