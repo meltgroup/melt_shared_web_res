@@ -20,9 +20,9 @@ Bayesian A/B testing is a statistical method used to compare different versions 
 
 Three very good reasons:
 
-1. Clarity: Frequentist statistics comes with a barrel load of jargon and counterintuitive concepts: p-values, confidence intervals, null hypotheses, power, minimum detectible effect, type one and type two errors. Bayesian statistics by contrast produces something very simple that anyone can understand - the probability that variant A is better than variant B. Even better these probabilities can be transformed directly into the terms of the business decision. For example, the probability that variant A will be more profitable than variant B. This one change cuts through difficulties you might be having in explaining results to the business.
-2. Ease of use: Bayesian A/B testing allows for so-called "peeking", i.e. seeing how the test is doing - something which is frowned upon (for good reason) in classical A/B testing. This means a test can be stopped early if the results are already good enough to make the call.
-3. Smaller sample sizes: In some circumstances, we can reduce the sample sizes needed by incorporating prior knowledge or beliefs about the variations being tested.
+1. **Clarity**: Frequentist statistics comes with a barrel load of jargon and counterintuitive concepts: p-values, confidence intervals, null hypotheses, power, minimum detectible effect, type one and type two errors. Bayesian statistics by contrast produces something very simple that anyone can understand - the probability that variant A is better than variant B. Even better these probabilities can be transformed directly into the terms of the business decision. For example, the probability that variant A will be more profitable than variant B. This one change cuts through difficulties you might be having in explaining results to the business.
+2. **Ease of use**: Bayesian A/B testing allows for so-called "peeking", i.e. seeing how the test is doing - something which is frowned upon (for good reason) in classical A/B testing. This means a test can be stopped early if the results are already good enough to make the call.
+3. **Smaller sample sizes**: In some circumstances, we can reduce the sample sizes needed by incorporating prior knowledge or beliefs about the variations being tested.
 
 
 ### How does it work?
