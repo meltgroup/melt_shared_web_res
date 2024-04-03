@@ -29,10 +29,10 @@ Three very good reasons:
 
 In Bayesian A/B testing, prior beliefs about the effectiveness of different variations are represented using probability distributions. As data from the experiment is collected, these prior distributions are updated using Bayes' theorem to obtain posterior distributions which reflect the updated beliefs about the true effectiveness of each variation. These posterior distributions can then be used to make inferences, such as estimating the probability that one variation is better than another or calculating the expected value of different metrics.
 
-## How do you get started?
+### How do we get started?
 
-Whether you are just starting out in A/B testing and are anxious to do it right, or whether you are already down the path of classical A/B testing and are feeling the pain, Coppelia can help you set up Bayesian A/B testing. We have
+Whether you are just starting out in A/B testing and are anxious to do it right, or whether you are already down the path of classical A/B testing and are feeling the pain, Coppelia can help you set up Bayesian A/B testing. We have:
 
 - Pre-built notebook templates and python packages to make life easier for your analysts and data scientists 
-- A fully mapped out business process for A/B testing, with standardised inputs and outputs
+- A fully mapped out business process for Bayesian A/B testing, with standardised inputs and outputs
 - Training and mentoring for data scientists and business stakeholders
