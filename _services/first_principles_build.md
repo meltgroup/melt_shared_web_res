@@ -7,7 +7,7 @@ header_image: /melt_shared_web_res/images/headers/blueprint.jpg
 blurb: "Some analytical problems can be fiercely difficult, resisting off the shelf solutions and forcing us to revisit the underlying maths. However breakthroughs can transform your business and give you the edge over competitors. We offer bespoke solutions to challenging problems."
 linked_services: [data_visualisation, sensor_modelling, forecasting]
 clients: [netflix, the_university_of_manchester, totally_money, elvie, ingenie, maido, here_i_am, find_my_past, beauhurst]
-status: published
+status: draft
 display_score: S55
 ---
 
