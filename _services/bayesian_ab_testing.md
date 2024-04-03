@@ -1,5 +1,5 @@
 ---
-title: Bayesian A/B Testing
+title: Bayesian A/B <br> Testing
 handle: bayesian_ab_testing
 icon: book-half
 layout: service
