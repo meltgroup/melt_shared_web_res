@@ -4,7 +4,7 @@ handle: bayesian_ab_testing
 icon: book-half
 layout: service
 header_image: /melt_shared_web_res/images/headers/pins.jpg
-blurb: Unleash the predictive power of Bayesian modelling to derive deep insights from data, enabling nuanced decision-making under uncertainty with dynamic, data-driven intelligence.
+blurb: No more p-values, null-hypotheses, type one and type two errors. Junk the confusing language of statistical testing for straightforward probabilities.
 status: published
 linked_services: [data_visualisation, bayesian_modelling, machine_learning]
 clients: [lyst]
