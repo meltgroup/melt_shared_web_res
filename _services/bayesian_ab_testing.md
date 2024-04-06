@@ -8,7 +8,7 @@ blurb: No more p-values, null-hypotheses, type one and type two errors. Junk the
 status: published
 linked_services: [bayesian_modelling, mentoring, training]
 clients: [lyst]
-display_score: B04
+display_score: S04
 ---
 
 ### What is Bayesian A/B testing?
