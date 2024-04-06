@@ -4,7 +4,7 @@ handle: customer_segmentation
 icon: x-diamond-fill
 layout: service
 header_image:  /melt_shared_web_res/images/headers/centre_sunflower.jpg
-blurb: Our approach to customer segmentation uses the latest NLP and machine learning techniques to build a meaningful and genuinely useful segmentation directly on top of your customer database.
+blurb: Our approach to customer segmentation uses the latest techniques in AI to build a meaningful and genuinely useful segmentation directly on top of your customer database.
 linked_services: [information_extraction, data_visualisation, recommender_systems]
 clients: [the_economist, totally_money, 38_degrees]
 status: published
@@ -17,7 +17,7 @@ Customer segmentation is the process of splitting  customers into groups based o
 
 Our approach is different because:
 
-- We use [Information Extraction](/services/information_extraction) to pull the most informative features possible from behavioural data. If ([with their consent](/ethical_data_science)) we can analyse what your customer is reading, watching, listening to and talking about, then we know so much more about their tastes and preferences than we can ever know from plain demographics.
+- We use LLM and NLP-powered [Information Extraction](/services/information_extraction) to pull the most informative features possible from behavioural data. If ([with their consent](/ethical_data_science)) we can analyse what your customer is reading, watching, listening to and talking about, then we know so much more about their tastes and preferences than we can ever know from plain demographics.
 -  We use the latest machine learning techniques to first simplify your data and then identify customer groupings.
 - Unlike segmentations that are built from surveys, and which then have to be linked in some unsatisfactory manner to your database, our segmentations are always built directly in your database.
 - Our segmentations change over time and adapt intelligently to the amount of data that you have for each person.

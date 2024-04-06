@@ -4,7 +4,7 @@ handle: nlp_powered_research
 icon: search
 layout: service
 header_image: /melt_shared_web_res/images/headers/pages.jpg
-blurb: Understand consumers in their own words. We use natural language processing and LLMs on well-structured open ended survey questions to bring you closer to the consumer’s perspective. They get to speak their minds. You get to make sense of it.
+blurb: Understand consumers in their own words. We use natural language processing and LLMs on specially formulated open ended survey questions to bring you closer to the consumer’s perspective. They get to speak their minds. You get to make sense of it.
 linked_services: [information_extraction, data_visualisation, customer_segmentation]
 clients: [netflix, unilever, wikipedia, maido, here_i_am]
 status: published
