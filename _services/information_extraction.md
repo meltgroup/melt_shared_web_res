@@ -27,4 +27,4 @@ Coppelia has extracted information for its clients from magazine articles, phone
 
 Unfortunately we cannot share client work, however we have made timeline.ai (our LLM package for extracting timelines from pdf) [publically available.](https://github.com/coppeliaMLA/timeline_ai)
 
-![](/melt_shared_web_res/images/page_images/timeline_ai.png)
+<a href="/melt_shared_web_res/images/page_images/timeline_ai.png" width='250' height='YYY' alt='steam-fish-1'>
