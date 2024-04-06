@@ -9,7 +9,7 @@ blurb: "Find out the best way to reach your customers by understanding the flow 
 linked_services: [information_extraction, customer_segmentation, recommender_systems, data_visualisation]
 clients: [hope_not_hate]
 status: published
-display_score: S02
+display_score: S06
 ---
 
 #### What is social network analysis?
