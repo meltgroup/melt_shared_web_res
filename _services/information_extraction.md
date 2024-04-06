@@ -1,5 +1,5 @@
 ---
-title: AI-Powered Information Extraction
+title: AI-Powered Info Extraction
 handle: information_extraction
 icon: newspaper
 layout: service
