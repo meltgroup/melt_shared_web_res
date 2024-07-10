@@ -1,5 +1,5 @@
 ---
-title: Customer Lifetime Modelling
+title: Lifetime Modelling
 handle: customer_lifetime_value
 icon: bar-chart-line
 layout: service
