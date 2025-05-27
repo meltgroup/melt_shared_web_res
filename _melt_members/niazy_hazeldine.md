@@ -1,7 +1,7 @@
 ---
 layout: melt_member
 name: Niazy Hazeldine
-business_name: Data Scientist
+business_name: Freelance Data Scientist
 linked_in_profile_page: https://www.linkedin.com/in/niazy-h-6b10a0154/
 twitter_handle: 
 github_user_name: duncstod
