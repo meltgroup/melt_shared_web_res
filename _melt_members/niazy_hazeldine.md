@@ -6,7 +6,7 @@ linked_in_profile_page: https://www.linkedin.com/in/niazy-h-6b10a0154/
 twitter_handle: 
 github_user_name: duncstod
 clients: [38_degrees]
-worked_with: [the_university_of_manchester]
+worked_with: [the_university_of_manchester, change_nhs, focal_data,forward_action, nhs_england, populares, survation]
 services: [customer_segmentation, nlp_powered_research, audience_profiling]
 tools: [machine_learning, natural_language_processing, statistical_modelling, topic_modelling, python]
 image: niazy_hazeldine.jpg
@@ -14,3 +14,13 @@ image: niazy_hazeldine.jpg
 
 Niazy is a data scientist and researcher with an MSc in advanced statistical modelling and qualitative methods. Her recent work at 38 Degrees focused on building and embedding data tools to inform digital campaigning, organisational health, and strategy. She’s led projects including forecasting retention rates to set benchmarks; using natural language processing and behavioural data to build audience segments; developing tools to identify potential high-value subscribers, and designing board-level performance metrics that combine external and proprietary data. 
 
+
+
+change_nhs.jpg
+focal_data.jpg
+forward_action.jpg
+logos.txt
+nhs_england.jpg
+populares.jpg
+survation.jpg
+survation.png
