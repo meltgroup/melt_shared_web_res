@@ -1,5 +1,5 @@
 ---
 name: survation
-logo_image: survation.jpg
+logo_image: survation.png
 display_score: S99
 ---
