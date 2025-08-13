@@ -6,7 +6,7 @@ layout: service
 header_image:  /melt_shared_web_res/images/headers/splurge.jpg
 blurb: We help your data scientists to put their mathematical and technical skills to good use, solving problems in the real world.
 linked_services: [training, data_science_strategy, peer_review]
-clients: [google, the_economist, sainsburys, itv, totally_money, unidays, direct_line_group, annalect, bamm, beauhurst, tubr, msl_group, redshift]
+clients: [google, the_economist, sainsburys, itv, tk_maxx, totally_money, unidays, direct_line_group, annalect, bamm, beauhurst, tubr, msl_group, redshift]
 status: published
 display_score: S04
 ---
