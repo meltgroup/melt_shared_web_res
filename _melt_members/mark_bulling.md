@@ -7,7 +7,7 @@ twitter_handle:
 github_user_name:
 clients: []
 worked_with: [wpp_media, choreograph, essence_mediacom, essence, mindshare, apple, facebook]
-services: [data_science_strategy, training]
+services: [bayesian_ab_testing, bayesian_modelling, customer_lifetime_value, customer_segmentation, data_science_strategy, data_visualisation, forecasting, information_extraction, market_sizing]
 tools: [machine_learning, natural_language_processing, optimisation, statistical_modelling]
 image: mark_bulling.jpg
 ---
