@@ -8,7 +8,7 @@ github_user_name:
 clients: []
 worked_with: [groupm, sandtable, zygo_communications]
 services: [data_science_strategy, peer_review, training, mentoring, first_principles_build]
-tools: [machine_learning, statistical_modelling, simulation]
+tools: [AI_strategy, "AI_governance_&_evaluation", data_strategy, product_strategy, "simulation_&_decision_support", "research_&_problem_framing"]
 image: nigel_shardlow.jpg
 ---
 
